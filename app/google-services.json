@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077638861644",
+    "firebase_url": "https://orimarkettfm.firebaseio.com",
+    "project_id": "orimarkettfm",
+    "storage_bucket": "orimarkettfm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077638861644:android:597b105f24f0f2f5",
+        "android_client_info": {
+          "package_name": "edu.uoc.orimarkettfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077638861644-lj8245onglcbdcjdn9l566ov5sajb2gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uoc.orimarkettfm",
+            "certificate_hash": "079bbf5dce2e794213e0d983ed68166b560ea7ce"
+          }
+        },
+        {
+          "client_id": "1077638861644-a6ci5qb4hsi46j2um2t9csu4922gdhjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAO1znpcn4lVo9zdxMqB0AVqM2mqMrhhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077638861644-a6ci5qb4hsi46j2um2t9csu4922gdhjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
